@@ -72,7 +72,7 @@ def app1():
 
         # Show the prediction result
         st.subheader("Predicted House Price")
-        st.success(f"Predicted Price: ${prediction[0]:,.2f}")
+        st.success(f"Predicted Price: ₹{prediction[0]:,.0f}")
 
 
 def app2():
