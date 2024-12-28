@@ -5,7 +5,7 @@ Welcome to the **House Price Prediction** app—a sleek and interactive tool to 
 
 Whether you’re a data enthusiast, homeowner, or just curious about how machine learning works in real estate, this app has something for you! 🚀
 
-**👉 Try it now:** [Live Demo]([https://example.com](https://house-price-streamlit.onrender.com))
+**👉 Try it now:** [Live Demo](https://house-price-streamlit.onrender.com)
 Note:- Live Link will take time to load
 
 ---
