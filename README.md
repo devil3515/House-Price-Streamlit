@@ -1,13 +1,12 @@
-Here’s a more engaging and polished version of the README:
-
----
-
 # 🏠 House Price Prediction with Streamlit
 
 ## 🌟 Overview
 Welcome to the **House Price Prediction** app—a sleek and interactive tool to predict house prices based on key property features. This project combines data analysis, machine learning, and visualization to deliver insights and predictions directly to your fingertips.
 
 Whether you’re a data enthusiast, homeowner, or just curious about how machine learning works in real estate, this app has something for you! 🚀
+
+**👉 Try it now:** [Live Demo]([https://example.com](https://house-price-streamlit.onrender.com))
+Note:- Live Link will take time to load
 
 ---
 
@@ -52,11 +51,11 @@ Follow these steps to get the app running locally:
 
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone devil3515/House-Price-Streamlit
    ```
 2. Navigate to the project directory:
    ```bash
-   cd house-price-prediction
+   cd House-Price-Streamlit
    ```
 3. Install the required dependencies:
    ```bash
@@ -105,4 +104,3 @@ Hi there! I’m **Abhishek Kumar**, an MCA graduate with a knack for crafting ma
 
 ---
 
-Feel free to fork this repo, contribute, or just share your feedback. Let’s make data science more accessible and exciting together! 🎉
